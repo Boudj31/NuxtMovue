@@ -59,6 +59,7 @@ export default {
       font-size: 18px;
       text-transform: uppercase;
       color: #b1daf8;
+      //hello
       margin-bottom: 8px;
       @media (min-width: 750px) {
         font-size: 22px;
