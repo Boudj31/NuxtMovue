@@ -105,6 +105,7 @@
 import axios from 'axios'
 export default {
   name: 'home',
+
   head() {
     return {
       title: 'Movie App - Les dernières actualités sur le cinéma ',
@@ -112,7 +113,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'Consulter tous les films ici,
+          content: 'Consulter tous les films ici',
         },
         {
           hid: 'keywords',
@@ -120,6 +121,7 @@ export default {
           content: 'movies, stream, streaming',
         },
       ],
+
     }
   },
   data() {
