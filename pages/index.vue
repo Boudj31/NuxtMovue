@@ -107,17 +107,17 @@ export default {
   name: 'home',
   head() {
     return {
-      title: 'Movie App - Latest Streaming Movie Info',
+      title: 'Movie App - Les dernières actualités sur le cinéma ',
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: 'Get all the latest streaming movies in theaters & online',
+          content: 'Consulter tous les films ici,
         },
         {
           hid: 'keywords',
           name: 'keywords',
-          content: 'movies, stream, stremaing',
+          content: 'movies, stream, streaming',
         },
       ],
     }
